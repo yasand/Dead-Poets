@@ -9,7 +9,7 @@ body {
     "sidebar header header"
     "sidebar main main"
     "sidebar footer footer";
-  grid-gap: 2px 30px;
+  grid-gap: 2px 2px;
   padding:30px;
 }
 
@@ -55,4 +55,5 @@ button {
   background-color:white;
   color:#144D53;
   border-radius: 40px;
+  margin:5px;
 }
